@@ -2,5 +2,5 @@
 
 source "https://rubygems.org"
 
-gem 'pry'
-gem 'rspec'
+gem "rspec", "~> 3.13"
+gem "pry", "~> 0.14.2"
